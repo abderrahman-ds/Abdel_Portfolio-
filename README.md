@@ -1,9 +1,9 @@
 # Abdel_Portfolio
 
 
-# Project 1: ## Enhancing the Effectiveness of Bank Telemarketing Campaigns Using Data Mining Techniques
+# Project 1: Enhancing the Effectiveness of Bank Telemarketing Campaigns Using Data Mining Techniques
 
-# Description: 
+## Description: 
 The research contribution of this project is divided into three main dimensions. First,
 investigate the results obtained when performing five different classification algorithms
 (Naïve Bayes, Logistic Regression, Decision Tree, Random Forest, KNN neighbour). The aim is
@@ -12,7 +12,7 @@ success of telemarketing calls for selling long-term bank deposits. Second, is t
 right KPI metric to evaluate the five classifiers. Third, is to enhance the effectiveness of the
 bank telemarketing by determining the key
 
-# Methodology
+## Methodology
 
 ![Screenshot 2022-05-16 at 18 58 22](https://user-images.githubusercontent.com/77781190/168675200-7bc9ccaf-fcca-4ac0-95cd-66b7d66cf483.png)
 
