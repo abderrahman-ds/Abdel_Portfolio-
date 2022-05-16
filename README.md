@@ -12,11 +12,11 @@ success of telemarketing calls for selling long-term bank deposits. Second, is t
 right KPI metric to evaluate the five classifiers. Third, is to enhance the effectiveness of the
 bank telemarketing by determining the key
 
-# Appraoch used in this report 
+# Methodology
 
 ![Screenshot 2022-05-16 at 18 58 22](https://user-images.githubusercontent.com/77781190/168675200-7bc9ccaf-fcca-4ac0-95cd-66b7d66cf483.png)
 
-# Overview of the Portuguese Bnak Dataset 
+# Overview of the Portuguese Bank Dataset
 
 ![Screenshot 2022-05-16 at 21 19 01](https://user-images.githubusercontent.com/77781190/168675683-2ee0186e-490f-4656-9838-4eb374b0b714.png)
 
