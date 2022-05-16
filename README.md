@@ -11,3 +11,9 @@ to build five classifiers and determine the best classifier that has a high abil
 success of telemarketing calls for selling long-term bank deposits. Second, is to choose the
 right KPI metric to evaluate the five classifiers. Third, is to enhance the effectiveness of the
 bank telemarketing by determining the key
+
+
+![Screenshot 2022-05-16 at 18 58 22](https://user-images.githubusercontent.com/77781190/168675200-7bc9ccaf-fcca-4ac0-95cd-66b7d66cf483.png)
+![Screenshot 2022-05-16 at 18 59 05](https://user-images.githubusercontent.com/77781190/168675204-729140aa-5c4c-4989-b363-a66a13959127.png)
+![Screenshot 2022-05-16 at 19 00 07](https://user-images.githubusercontent.com/77781190/168675207-ea0eb06b-6ff9-47bf-b318-775e73ae6dfa.png)
+![Screenshot 2022-05-16 at 19 00 30](https://user-images.githubusercontent.com/77781190/168675210-a0177188-5133-4c02-bd81-40c6ce60fc12.png)
